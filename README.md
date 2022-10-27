@@ -1,5 +1,5 @@
 ### Hi , I'm Milind 
-                                               Image processing | Machine Learning | Electronics | Algorithms
+                                    Image processing | Machine Learning | Electronics | Algorithms
 
 - I'm a machine learning enthusiast having an interest to work in the domain of image processing , computer vision and signal analysis
 - 🌱 I’m currently learning Electronics , Microcontrollers and Microprocessors , Machine Learning
