@@ -1,8 +1,8 @@
 ### Hi , I'm Milind 
                                     Image processing | Machine Learning | Electronics | Algorithms
 
-- I'm a machine learning enthusiast having an interest to work in the domain of image processing , computer vision and signal analysis
-- 🌱 I’m currently learning Electronics , Microcontrollers and Microprocessors , Machine Learning
-- 👯 I’m looking to collaborate on Healthcare devices , Detection to solve real life problems , Weapon Systems
-- 📫 How to reach me: deathrowsnake@gmail.com
+- I'm an 20 year old Embedded Engineer passionate about Design and Development of VTOL's/STOL's such that of Tiltrotor Aircrafts , Predator Drones , Unmanned surveillance and reconnaissance aerial vehicle and even UCGV
+- 🌱 I’m currently working on Next-Generation Flight Controllers for Copters and Fixed-Wing UAV utilzing ARM-Cortex-M series MCU and Modern Day IMU units
+- 👯 I’m looking to collaborate on UAV Development, Weapon Systems, Embedded System with like-minded professionals, investors, and partners who share the vision of advancing the UAV and Defense industry through groundbreaking solutions. 
+- 📫 How to reach me: milindpatt@gmail.com
 - 😄 Pronouns: He/Him
