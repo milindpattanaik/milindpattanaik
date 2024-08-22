@@ -1,5 +1,5 @@
 ### Hi , I'm Milind 
-                                    UAV | Control Systems | Embedded System and Development | Algorithm Expert | Modern Weapon System
+                        UAV | Control Systems | Embedded System and Development | Algorithm Expert | Modern Weapon System
 
 - I'm an 20 year old Embedded Engineer passionate about Design and Development of VTOL's/STOL's such that of Tiltrotor Aircrafts , Predator Drones , Unmanned surveillance and reconnaissance aerial vehicle and even UCGV
 - 🌱 I’m currently working on Next-Generation Flight Controllers for Copters and Fixed-Wing UAV utilzing ARM-Cortex-M series MCU and Modern Day IMU units
